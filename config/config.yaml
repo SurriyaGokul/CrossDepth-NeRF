@@ -1,4 +1,0 @@
-transforms_json : "/kaggle/working/my_scene/transforms.json"
-spiral_json : "/kaggle/working/my_scene/spiral_camera_path.json"
-config_yaml : "/kaggle/working/outputs/my_scene/nerfacto/2025-06-26_xxxxxx/config.yml"  
-scene_path : "/kaggle/working/my_scene"
